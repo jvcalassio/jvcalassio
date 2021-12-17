@@ -1,4 +1,4 @@
-# Hi! <img src="./img/wave.gif" width="30px">
+# Hey! <img src="./img/wave.gif" width="30px">
 
 I'm João, currently pursuing a Bachelor's degree in Computer Science at [Universidade de Brasília](http://unb.br)
 
