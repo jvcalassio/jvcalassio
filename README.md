@@ -11,17 +11,18 @@ I'm João, currently pursuing a Bachelor's degree in Computer Science at [Univer
 
 ## I'm used to work with...
 
-![C++](https://img.shields.io/badge/c++-00599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![MySQL](https://img.shields.io/badge/mysql-00000f.svg?style=flat-square&logo=mysql&logoColor=white)
-![React](https://img.shields.io/badge/react-20232a.svg?style=flat-square&logo=react&logoColor=61DAFB)
+[![C++](https://img.shields.io/badge/c++-00599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=flat-square&logo=javascript&logoColor=F7DF1E)](https://www.ecma-international.org/)
+[![MySQL](https://img.shields.io/badge/mysql-00000f.svg?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![React](https://img.shields.io/badge/react-20232a.svg?style=flat-square&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 
 ## I'm currently learning...
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
+[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white)](https://nestjs.com/)
+[![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)](https://go.dev/)
+[![Next JS](https://img.shields.io/badge/nextjs-black?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
 
 ## You can get in touch by...
 
