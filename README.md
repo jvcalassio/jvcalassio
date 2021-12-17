@@ -1,6 +1,6 @@
 # Hi! <img src="./wave.gif" width="30px">
 
-I'm João, currently pursuing a Bachelor's Computer Science degree at [Universidade de Brasília](http://unb.br)
+I'm João, currently pursuing a Bachelor's degree in Computer Science at [Universidade de Brasília](http://unb.br)
 
 ## I'm interested in...
 
@@ -32,7 +32,7 @@ I'm João, currently pursuing a Bachelor's Computer Science degree at [Universid
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=jvcalassio&count_private=true&hide=issues&show_icons=true">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=jvcalassio&count_private=true&hide=issues&show_icons=true&custom_title=Statistics">
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvcalassio&layout=compact&hide=verilog">
