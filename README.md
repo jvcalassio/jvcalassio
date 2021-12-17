@@ -1,4 +1,4 @@
-# Hi! <img src="https://github.com/jvcalassio/jvcalassio/blob/main/img/wave.gif" width="30px">
+# Hi! <img src="./img/wave.gif" width="30px">
 
 I'm João, currently pursuing a Bachelor's degree in Computer Science at [Universidade de Brasília](http://unb.br)
 
@@ -30,17 +30,14 @@ I'm João, currently pursuing a Bachelor's degree in Computer Science at [Univer
 
 ## Github Statistics
 
-<p>
+<p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="160" src="https://github-readme-stats.vercel.app/api?username=jvcalassio&count_private=true&hide=issues&show_icons=true&custom_title=Statistics">
+        <img align="center" height="160" src="https://github-readme-stats.vercel.app/api?username=jvcalassio&count_private=true&hide=issues&show_icons=true&custom_title=Statistics">
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvcalassio&layout=compact&hide=verilog">
+        <img align="center" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvcalassio&layout=compact&hide=verilog">
     </a>
 </p>
-<!-- [![jvcalassio's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvcalassio)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvcalassio&layout=compact&hide=verilog)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **jvcalassio/jvcalassio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
