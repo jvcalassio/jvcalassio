@@ -1,28 +1,23 @@
 # Hey! <img src="./img/wave.gif" width="30px">
 
-I'm João, currently pursuing a Bachelor's degree in Computer Science at [Universidade de Brasília](http://unb.br)
+I'm João, B.S in Computer Science at [Universidade de Brasília](http://unb.br).
 
 ## I'm interested in...
 
 - &#128187; Scalable backend architectures
-- &#128396; Frontend development using component based frameworks
-- &#128241; Multiplatform mobile development
 - &#128065; Computer vision and image processing
 
 ## I'm used to work with...
 
 [![C++](https://img.shields.io/badge/c++-00599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=flat-square&logo=javascript&logoColor=F7DF1E)](https://www.ecma-international.org/)
-[![MySQL](https://img.shields.io/badge/mysql-00000f.svg?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![React](https://img.shields.io/badge/react-20232a.svg?style=flat-square&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
 ## I'm currently learning...
 
-[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
-[![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white)](https://nestjs.com/)
 [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)](https://go.dev/)
-[![Next JS](https://img.shields.io/badge/nextjs-black?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
 
 ## You can get in touch by...
 
